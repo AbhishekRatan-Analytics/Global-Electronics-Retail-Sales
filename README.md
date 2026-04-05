@@ -1,5 +1,7 @@
 # Global Electronics Sales Dashboard (Excel)
 
+<img width="1597" height="919" alt="image" src="https://github.com/user-attachments/assets/f6c71972-8453-4955-85cf-59c0f47ca995" />
+
 ## Overview
 This project presents an interactive Excel-based Business Intelligence dashboard
 analyzing global electronics sales from 2016 to 2021.
